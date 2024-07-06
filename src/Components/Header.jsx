@@ -13,7 +13,7 @@ function Header() {
         <div className="flex justify-center items-center gap-4 p-2">
           <img
             className="w-[125px] h-[36.66px]"
-            src="/public/assets/logo.png"
+            src="/assets/logo.png"
             alt=""
           />
           <select
