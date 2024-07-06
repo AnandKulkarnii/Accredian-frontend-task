@@ -46,34 +46,34 @@ function Body() {
           </div>
           <img
             className="absolute top-0 left-0"
-            src="/src/assets/cash.png"
+            src="/public/assets/cash.png"
             alt=""
           />
           <img
             className="absolute left-[540px] bottom-10"
-            src="/src/assets/fullcash.png"
+            src="/public/assets/fullcash.png"
             alt=""
           />
           <img
             className="absolute right-0 bottom-[250px]"
-            src="/src/assets/haircash.png"
+            src="/public/assets/haircash.png"
             alt=""
           />
           <img
             className="absolute top-0 right-0"
-            src="/src/assets/rightcash.png"
+            src="/public/assets/rightcash.png"
             alt=""
           />
           <img
             className="absolute top-0 left-[730px]"
-            src="/src/assets/topmiddlecash.png"
+            src="/public/assets/topmiddlecash.png"
             alt=""
           />
         </div>
         <div>
           <img
             className="w-[814px] h-[725px]"
-            src="/src/assets/image.png"
+            src="/public/assets/image.png"
             alt=""
           />
         </div>
@@ -84,20 +84,20 @@ function Body() {
           <span className="text-[#1A202C]">How do I </span>
           <span className="text-[#1A73E8]">Refer?</span>
         </div>
-        <img className="mx-auto" src="/src/assets/circles.png" alt="" />
+        <img className="mx-auto" src="/public/assets/circles.png" alt="" />
         <img
           className="w-[88px] h-[67px] left-[340px] top-[260px] absolute"
-          src="/src/assets/plus.png"
+          src="/public/assets/plus.png"
           alt=""
         />
         <img
           className="w-[58px] h-[61px] left-[735px] top-[260px] absolute"
-          src="/src/assets/notepad.png"
+          src="/public/assets/notepad.png"
           alt=""
         />
         <img
           className="w-[58px] h-[51px] absolute left-[1120px] top-[260px]"
-          src="/src/assets/wallet.png"
+          src="/public/assets/wallet.png"
           alt=""
         />
         <div className="w-[193px] h-[88px] font-roboto text-[16px] font-normal leading-[22px] text-center absolute top-[360px] left-[280px]">
@@ -155,7 +155,7 @@ function Body() {
       <div className="h-[210px] w-[1360px] bg-[#1A73E8] mx-auto rounded-[29px] mt-[100px] py-6 px-12 flex items-center justify-between">
         <div className="flex items-center gap-10">
           <img
-            src="/src/assets/headphone.png"
+            src="/public/assets/headphone.png"
             alt="Icon"
             className="h-[72px] w-[72px] mr-4"
           />

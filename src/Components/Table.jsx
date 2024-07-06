@@ -59,7 +59,7 @@ function Table() {
                 <td className="py-4 px-6 text-gray-700 flex items-center">
                   <img
                     className="w-[24.05px] h-[18px]"
-                    src="/src/assets/hat.png"
+                    src="/public/assets/hat.png"
                     alt=""
                   />
                   {program.name}

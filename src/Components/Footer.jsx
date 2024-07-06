@@ -13,7 +13,7 @@ function Footer() {
       <div className="flex items-center justify-between px-40">
         <img
           className="h-[38.33px] w-[144px]"
-          src="/src/assets/footerLogo.png"
+          src="/public/assets/footerLogo.png"
           alt="Accredian Logo"
         />
         <div className="text-center">
