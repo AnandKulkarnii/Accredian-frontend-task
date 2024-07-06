@@ -1,0 +1,6 @@
+@import "@fontsource/roboto";
+@import "@fontsource/inter";
+@import "@fontsource/source-sans-pro";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
